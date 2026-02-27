@@ -1,8 +1,13 @@
 # Ethical Toolkit
 
-A beginner-friendly ethical hacking toolkit for lab practice.
+A beginner-friendly ethical hacking toolkit built in Python.
 
-## Tools Included
-- Python Port Scanner
+## Features
+- Simple TCP port scanner
+- Beginner friendly
+- Lightweight
 
-⚠️ For educational and authorized testing only.
+## Usage
+
+```bash
+python3 port_scanner.py
